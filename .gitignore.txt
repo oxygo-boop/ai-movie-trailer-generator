@@ -1,0 +1,26 @@
+Python
+pycache/
+*.pyc
+
+Jupyter
+.ipynb_checkpoints/
+
+Environment
+.env
+
+Media outputs
+*.mp4
+*.mp3
+*.wav
+*.png
+*.jpg
+
+Colab folders
+/content/
+trailer_output/
+trailer_videos/
+trailer_videos_converted/
+
+OS files
+.DS_Store
+Thumbs.db
